@@ -1,3 +1,6 @@
+// this file will take input of filename to create and creates new file in that particular file
+
+
 import java.lang.*;
 import java.util.*;
 import java.io.*;
